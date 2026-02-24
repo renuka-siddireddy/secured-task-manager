@@ -1,0 +1,35 @@
+body {
+    font-family: Arial;
+    background: #f4f6f9;
+    padding: 40px;
+}
+
+.container {
+    max-width: 500px;
+    margin: auto;
+    background: white;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    background: #007bff;
+    color: white;
+    border: none;
+}
+
+pre {
+    background: #222;
+    color: #0f0;
+    padding: 15px;
+}
